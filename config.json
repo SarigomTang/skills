@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "todo-api-fastapi",
+      "title": "To-Do API with FastAPI",
+      "description": "Build a beginner-friendly task manager API using FastAPI and JSON data",
+      "path": "assignments/todo-api-fastapi",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
